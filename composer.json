@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "psr-4": {"ProyectoWeb\\": "src"}
+    },
+    "require": {
+        "slim/slim": "^3.11",
+        "slim/php-view": "^2.2",
+        "slim/flash": "^0.4.0",
+        "claviska/simpleimage": "^3.3",
+        "jasongrimes/paginator": "^1.0"
+    }
+}
